@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @magnetsrev
+- 👋 Hello world!.., I’m @magnetsrev
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning the OpenAI APIs.
 - 💞️ I’m looking to collaborate on open source software.
