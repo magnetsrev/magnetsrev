@@ -2,7 +2,7 @@
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning the OpenAI APIs.
 - 💞️ I’m looking to collaborate on open source software.
-- 📫 How to reach me oldmasters.it@gmail.com
+- 📫 How to reach me dev@oldmasters.mozmail.com
 
 <!---
 magnetsrev/magnetsrev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
